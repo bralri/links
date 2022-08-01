@@ -21,9 +21,17 @@ body {
 
 .profile-name {
     text-align: center;
-    padding: 30px;
+    padding: 10px;
+    padding-top: 20px;
     font-size: 28px;
     color: whitesmoke;
+}
+
+.profile-at {
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    color: gray;
 }
 
 .links {
